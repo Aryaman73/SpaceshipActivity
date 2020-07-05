@@ -1,0 +1,6 @@
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\bin\Debug\Spaceship Collaboration Activity.dll
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\bin\Debug\Spaceship Collaboration Activity.pdb
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\obj\Debug\Spaceship Collaboration Activity.csprojAssemblyReference.cache
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\obj\Debug\Spaceship Collaboration Activity.csproj.CoreCompileInputs.cache
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\obj\Debug\Spaceship Collaboration Activity.dll
+C:\Users\Aryaman Singh\Desktop\spaceshipcollaborationactivity-skeleton-30june2020\.mono\temp\obj\Debug\Spaceship Collaboration Activity.pdb
